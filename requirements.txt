@@ -1,0 +1,12 @@
+asgiref==3.3.1
+Django==3.1.3
+django-jinja==2.7.0
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+pyactiveresource==2.2.1
+PyJWT==1.7.1
+pytz==2020.4
+PyYAML==5.3.1
+ShopifyAPI==8.0.4
+six==1.15.0
+sqlparse==0.4.1
